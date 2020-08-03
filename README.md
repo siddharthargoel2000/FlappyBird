@@ -6,3 +6,5 @@
 
 ##### Library used : pygame
 
+![Test Image](https://github.com/siddharthargoel2000/FlappyBird/blob/master/flappy_game.PNG)
+
